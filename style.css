@@ -32,7 +32,7 @@ header {
 }
 
 /* Styles for mobile devices */
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1080px) {
     #poop-o-meter {
         width: 100%; /* You can adjust the width as needed */
         height: 400px; /* You can adjust the height as needed */
