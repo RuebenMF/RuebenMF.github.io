@@ -25,7 +25,19 @@ header {
 	header p {
 		margin-top: 10px;
 	}
+/* Default styles for desktop */
+#poop-o-meter {
+    width: 600px;
+    height: 544px;
+}
 
+/* Styles for mobile devices */
+@media only screen and (max-width: 768px) {
+    #myIframe {
+        width: 100%; /* You can adjust the width as needed */
+        height: 400px; /* You can adjust the height as needed */
+    }
+}
 section {
 	margin: 20px;
 }
