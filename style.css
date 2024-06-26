@@ -27,8 +27,9 @@ header {
 	}
 /* Default styles for desktop */
 #poop-o-meter {
-    width: 600px;
-    height: 544px;
+    width: 900px;
+    height: 816px;
+    margin-bottom:30px
 }
 
 /* Styles for mobile devices */
